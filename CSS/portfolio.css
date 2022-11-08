@@ -1,0 +1,29 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.hello
+{
+    position: absolute;
+    left: 20%;
+    top: 30%;
+    font-size: 50px;
+}
+.name
+{
+    position: absolute;
+    left: 20%;
+    top: 37%;
+    font-size: 50px;
+}
+.profession
+{
+    position: absolute;
+    left: 20%;
+    top: 46%;
+    font-size: 20px;
+    border: 1px solid;
+    padding: 5px 5px 5px 5px;
+    background-color: gold;
+}
